@@ -10,7 +10,7 @@ I've been developing some educational equipment to teach students all around the
 * 🧠  I'm learning Back End Development
 * 🤝  I'm open to collaborating on Anything Arduino related
 * ⚡  Hoidng Crypto till the end of time.
-* ⚡  Know Blender as well so I am artistic as well. 
+* ⚡  Know Blender as well.
 
 <a href="https://www.twitter.com/Vorpalv2" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Vorpalv2?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
