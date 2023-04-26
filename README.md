@@ -9,7 +9,7 @@ I've been developing some educational equipment to teach students all around the
 * 🌍  I'm based in New Delhi
 * 🧠  I'm learning Back End Development
 * 🤝  I'm open to collaborating on Anything Arduino related
-* ⚡  Hoidng Crypto till the end of time.
+* ⚡  Holding Crypto till the end of time.
 * ⚡  Know Blender as well.
 
 <a href="https://www.twitter.com/Vorpalv2" target="_blank" rel="noreferrer"><img
