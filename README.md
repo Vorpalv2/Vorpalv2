@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web and IoT Developer
 ---------------------
 
-I've been developing some educational equipment to teach students all around the country along with Web and IoT Development.
+Developing educational equipment to teach students all around the country along with Web and IoT Development.
 
 * 🌍  I'm based in New Delhi
 * 🧠  I'm learning Back End Development
