@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web and IoT Developer
 ---------------------
 
-Developing educational equipment to teach students all around the country along with Web and IoT Development. \* 🌍  I'm based in New Delhi \* 🧠  I'm learning Back End Development \* 🤝  I'm open to collaborating on Anything Arduino related \* ⚡  Holding Crypto till the end of time. \* ⚡ Know Blender as well.
+Developing educational equipment to teach students all around the country along with Web and IoT Development.
 
 *   🌍  I'm based in New Delhi
 *   ✉️  You can contact me at [Vorpalv2@yahoo.com](mailto:Vorpalv2@yahoo.com)
