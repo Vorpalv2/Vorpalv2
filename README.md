@@ -8,7 +8,7 @@ Developing educational equipment to teach students all around the country along 
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [Vorpalv2@yahoo.com](mailto:Vorpalv2@yahoo.com)
-* 🧠  I'm learning Back End Development
+* 🧠  Improving myself Day by Day.
 * 🤝  I'm open to collaborating on Anything Arduino Related
 * ⚡  Proficient with 3D Modeling and Texturing as well
 
