@@ -6,7 +6,6 @@ Web and IoT Developer
 
 Developing educational equipment to teach students all around the country along with Web and IoT Development.
 
-* 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [Vorpalv2@yahoo.com](mailto:Vorpalv2@yahoo.com)
 * 🧠  Improving myself Day by Day.
 * 🤝  I'm open to collaborating on Anything Arduino Related
