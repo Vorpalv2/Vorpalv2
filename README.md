@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web and Embedded Systems Developer
 ---------------------
 
-Developing educational equipment to teach students all around the country along with Web and Embedded Systems Development.
+Developing educational equipments to teach students all around the country along with Web and Embedded Systems Development.
 
 * ✉️  You can contact me at [Vorpalv2@yahoo.com](mailto:Vorpalv2@yahoo.com)
 * 🧠  Improving myself Day by Day.
