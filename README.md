@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================
 
 <p align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=28&pause=1000&color=14AAF7&center=true&vCenter=true&width=435&lines=FDE+Engineer;Full+Stack+Developer;AI+and+Embedded+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=28&pause=1000&color=14AAF7&center=true&vCenter=true&width=435&lines=Forward+Deployed+Engineer;Full+Stack+Developer;Embedded+Engineer" alt="Typing SVG" /></a>
 </p>
 
 ---------------------
