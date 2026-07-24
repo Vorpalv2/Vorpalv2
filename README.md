@@ -67,6 +67,8 @@ Developing educational equipments to teach students all around the country along
         <img src="https://img.shields.io/badge/Upstash-00E599?style=for-the-badge&logo=upstash&logoColor=black" />
         <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
         <img src="https://img.shields.io/badge/Auth.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sanity_CMS-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" />
+<img src="https://img.shields.io/badge/Resend-000000?style=for-the-badge&logo=resend&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
