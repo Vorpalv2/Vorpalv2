@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aakash
 ==============================================================================================================================
 
-Web and Embedded Systems Developer (Working towards FDE Engineer).
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&lines=System.init(%22Tech+Stack%22);;Loading+Core+Modules...;;Full-Stack+%2B+Embedded+%2B+AI+SDKs" alt="Typing SVG" /> </p>
+
 ---------------------
 
 Developing educational equipments to teach students all around the country along with Web and Embedded Systems Development.
