@@ -6,13 +6,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 ---------------------
+**Building high-throughput web architectures, agentic AI pipelines, and custom physical computing hardware.**
 
-Developing educational equipments to teach students all around the country along with Web and Embedded Systems Development.
+> Engineered & deployed technical training equipment and simulators for driving schools and educational institutes nationwide.
 
-* ✉️  You can contact me at [Vorpalv2@yahoo.com](mailto:Vorpalv2@yahoo.com)
-* 🧠  Improving myself Day by Day.
-* 🤝  I'm open to collaborating on Anything Arduino Related
-* ⚡  Proficient with 3D Modeling and Texturing as well
+---
+
+### ⚡ A glimpse of what i've done so far
+
+* 🏗️ **Full-Stack Architecture:** Production Next.js, serverless workflows, event-driven background queues (Inngest), and low-latency data layers (PostgreSQL, Neon, Redis/Upstash).
+* 🤖 **AI & Autonomous Agents:** Custom RAG pipelines with vector databases (**Pinecone**, **Supabase Vector**) using hybrid model architectures—integrating local LLMs (Ollama) and hosted models (Gemini, Claude) via Vercel AI SDK and custom prompt tooling.
+* 🕷️ **Data Extraction & Scraping:** Headless browser automation (Puppeteer-core, Browserless) built for real-time context retrieval and resilient web scraping.
+* 🔌 **Hardware & Embedded Systems:** Microprocessor hardware design, custom firmware (Arduino/ESP32), and single-board systems (Raspberry Pi) deployed in production nationwide.
+* 🎨 **3D Pipeline:** Proficient in 3D modeling and texturing for physical system simulation, interactive media, and spatial asset design.
+* 🤝 **Open for Collaboration:** High-scale IoT infrastructure, edge AI integration, and complex web/hardware solutions.
+* 📬 **Contact:** [Vorpalv2@yahoo.com](mailto:Vorpalv2@yahoo.com)
+
+---
 <hr>
 
 <div align='center'>
